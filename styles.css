@@ -1,3 +1,7 @@
 .center {
     text-align: center;
 }
+
+.card-colums {
+    display: inline-block;
+}
